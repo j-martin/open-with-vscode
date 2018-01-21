@@ -2,8 +2,8 @@
   "name": "openwith",
   "displayName": "OpenWith",
   "description": "Open current file in any application or text editor.",
-  "version": "0.0.1",
-  "publisher": "j-martin",
+  "version": "0.1.0",
+  "publisher": "jmarcher",
   "engines": {
     "vscode": "^1.19.0"
   },
