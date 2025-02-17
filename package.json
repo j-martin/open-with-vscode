@@ -4,6 +4,7 @@
   "description": "Open current file in any application or text editor.",
   "version": "0.2.0",
   "publisher": "jmarcher",
+  "repository": "https://github.com/j-martin/open-with-vscode",
   "engines": {
     "vscode": "^1.97.0"
   },
