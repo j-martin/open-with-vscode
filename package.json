@@ -13,7 +13,15 @@
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
-  "contributes": {},
+  "contributes": {
+    "contributes": {},
+    "commands": [
+      {
+        "command": "open-with.open",
+        "title": "Open With..."
+      }
+    ]
+  },
   "scripts": {
     "vscode:prepublish": "yarn run compile",
     "compile": "tsc -p ./",
